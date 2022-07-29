@@ -1,0 +1,13 @@
+{
+    "name": "franciscopastorgonzalez/pcreative-plugin",
+    "authors": [
+        {
+            "name": "pastorCreative",
+            "email": "paco@pastorcreative.es"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
